@@ -10,15 +10,9 @@ working under the mentorship of Prof.<a href="https://tsim17.wixsite.com/terence
  I received the PhD degree from Hunan University in 2023. I studied at the National University of Singapore as a visiting student in 2022. My PhD is co-supervised by  Prof.<a href="[https://tsim17.wixsite.com/terencesim](https://scholar.google.com/citations?user=mo49xkgAAAAJ&hl=zh-CN&oi=ao)" target="_blank"> Liao Xin</a>,  Prof.<a href="[https://tsim17.wixsite.com/terencesim](http://csee.hnu.edu.cn/people/qinzheng)" target="_blank"> Qin Zheng</a>, and Prof.<a href="[https://tsim17.wixsite.com/terencesim](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN&oi=sra)" target="_blank"> Mike Shou</a>. 
 
 
-## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
-
-
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+- **[May. 2023]** Outstanding graduate of Hunan University
+- **[November. 2022]** Excellent doctoral student of Hunan University
 
 
 <!-- {% include_relative _includes/publications.md %} -->
