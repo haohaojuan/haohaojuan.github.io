@@ -7,7 +7,7 @@ layout: homepage
 I'm a Research Fellow at National University of Singapore
 working under the mentorship of Prof.<a href="https://tsim17.wixsite.com/terencesim" target="_blank"> Terence Sim</a>. My research involves AIGC forensic, such as Deepfake detection.
 
- I received the PhD degree from Hunan University in 2023. I studied at the National University of Singapore as a visiting student in 2022. My PhD is co-supervised by  Prof.<a href="https://scholar.google.com/citations?user=mo49xkgAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Liao Xin</a>,  Prof.<a href="http://csee.hnu.edu.cn/people/qinzheng" target="_blank"> Qin Zheng</a>, and Prof.<a href="https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN&oi=sra" target="_blank"> Mike Shou</a>. 
+ I received the PhD degree from Hunan University in 2023. I studied at the National University of Singapore as a visiting student in 2022. My PhD is co-supervised by  Prof.<a href="https://scholar.google.com/citations?user=mo49xkgAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Liao Xin</a>,  Prof.<a href="http://csee.hnu.edu.cn/people/qinzheng" target="_blank"> Qin Zheng</a>, and Prof.<a href="https://sites.google.com/view/showlab" target="_blank"> Mike Shou</a>. 
 
 
 ## Awards
