@@ -22,7 +22,7 @@ working under the mentorship of Prof.<a href="https://tsim17.wixsite.com/terence
 
 **Hu J**, Liao X, Liang J, Zhou W, and Qin Z. Finfer: Frame inference-based deepfake detection for high-visual-quality videos[C]//Proceedings of the AAAI conference on artificial intelligence. 2022, 36(1): 951-959.
 
-Liao X, Wang Y, Wang T, **Hu J**, and Wu X. FAMM: Facial Muscle Motions for Detecting Compressed Deepfake Videos over Social Networks[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023.
+Liao X, Wang Y, Wang T, **Hu J**, and Wu X. FAMM: Facial Muscle Motions for Detecting Compressed Deepfake Videos over Social Networks[J]. IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3278310, 2023.
 
 
 {% include_relative _includes/services.md %}
