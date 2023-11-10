@@ -19,10 +19,11 @@ working under the mentorship of Prof.<a href="https://tsim17.wixsite.com/terence
 
 Liao X, Wang Y, Wang T, **Hu J**, and Wu X. FAMM: Facial Muscle Motions for Detecting Compressed Deepfake Videos over Social Networks[J]. IEEE Transactions on Circuits and Systems for Video Technology, DOI: 10.1109/TCSVT.2023.3278310, 2023.
 
-## Awards
-- **[May. 2023]** Outstanding graduate of Hunan University (Top 5%)
-- **[November. 2022]** Excellent doctoral student of Hunan University (Top 8%)
+
 
 
 {% include_relative _includes/services.md %}
 
+## Awards
+- **[May. 2023]** Outstanding graduate of Hunan University (Top 5%)
+- **[November. 2022]** Excellent doctoral student of Hunan University (Top 8%)
