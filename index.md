@@ -19,7 +19,7 @@ working under the mentorship of Prof.<a href="https://tsim17.wixsite.com/terence
 
 **Hu J**, Liao X,  Gao D, Tsutsui S, Wang Q, Qin Z, Shou M. Delocate: Detection and Localization for Deepfake Videos with Randomly-Located Tampered Traces [C] // Proceedings of the International Joint Conference on Artificial Intelligence. 2024, Acceptted.
 
-Liao X, Wang Y, Wang T, **Hu J**, and Wu X. FAMM: Facial Muscle Motions for Detecting Compressed Deepfake Videos over Social Networks[J]. IEEE Transactions on Circuits and Systems for Video Technology, DOI: 10.1109/TCSVT.2023.3278310, 2023.
+Liao X, Wang Y, Wang T, **Hu J**, and Wu X. FAMM: Facial Muscle Motions for Detecting Compressed Deepfake Videos over Social Networks [J]. IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 12, pp. 7236-7251, 2023.
 
 
 
