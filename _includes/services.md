@@ -19,4 +19,5 @@
 <ul style="margin:0 0 20px;">
   <li> International Conference on Computer Vision </li>
   <li> European Conference on Computer Vision </li>
+  <li> Computer Vision and Pattern Recognition </li>
 </ul>
