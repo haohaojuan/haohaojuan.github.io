@@ -19,6 +19,8 @@ working under the mentorship of Prof.<a href="https://tsim17.wixsite.com/terence
 
 **Hu J**, Liao X,  Gao D, Tsutsui S, Wang Q, Qin Z, Shou M. Delocate: Detection and Localization for Deepfake Videos with Randomly-Located Tampered Traces [C] // Proceedings of the International Joint Conference on Artificial Intelligence. 2024. [Oral 3%]
 
+**Hu J**, Liang J, Qin Z, Liao X, Zhou W, and Lin X. ADA-FInfer: Inferring Face Representations from Adaptive Select Frames for High-Visual-Quality Deepfake Detection [J]. IEEE Transactions on Dependable and Secure Computing, 2024. DOI: 10.1109/TDSC.2024.3523289.
+
 Liao X, Wang Y, Wang T, **Hu J**, and Wu X. FAMM: Facial Muscle Motions for Detecting Compressed Deepfake Videos over Social Networks [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023. 33(12): 7236-7251.
 
 
